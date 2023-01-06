@@ -1,0 +1,14 @@
+C:\Users\yashkaushik\source\repos\Basicapplication\Basicapplication\bin\Debug\netcoreapp3.1\Basicapplication.exe
+C:\Users\yashkaushik\source\repos\Basicapplication\Basicapplication\bin\Debug\netcoreapp3.1\Basicapplication.deps.json
+C:\Users\yashkaushik\source\repos\Basicapplication\Basicapplication\bin\Debug\netcoreapp3.1\Basicapplication.runtimeconfig.json
+C:\Users\yashkaushik\source\repos\Basicapplication\Basicapplication\bin\Debug\netcoreapp3.1\Basicapplication.runtimeconfig.dev.json
+C:\Users\yashkaushik\source\repos\Basicapplication\Basicapplication\bin\Debug\netcoreapp3.1\Basicapplication.dll
+C:\Users\yashkaushik\source\repos\Basicapplication\Basicapplication\bin\Debug\netcoreapp3.1\Basicapplication.pdb
+C:\Users\yashkaushik\source\repos\Basicapplication\Basicapplication\obj\Debug\netcoreapp3.1\Basicapplication.csproj.AssemblyReference.cache
+C:\Users\yashkaushik\source\repos\Basicapplication\Basicapplication\obj\Debug\netcoreapp3.1\Basicapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashkaushik\source\repos\Basicapplication\Basicapplication\obj\Debug\netcoreapp3.1\Basicapplication.AssemblyInfoInputs.cache
+C:\Users\yashkaushik\source\repos\Basicapplication\Basicapplication\obj\Debug\netcoreapp3.1\Basicapplication.AssemblyInfo.cs
+C:\Users\yashkaushik\source\repos\Basicapplication\Basicapplication\obj\Debug\netcoreapp3.1\Basicapplication.csproj.CoreCompileInputs.cache
+C:\Users\yashkaushik\source\repos\Basicapplication\Basicapplication\obj\Debug\netcoreapp3.1\Basicapplication.dll
+C:\Users\yashkaushik\source\repos\Basicapplication\Basicapplication\obj\Debug\netcoreapp3.1\Basicapplication.pdb
+C:\Users\yashkaushik\source\repos\Basicapplication\Basicapplication\obj\Debug\netcoreapp3.1\Basicapplication.genruntimeconfig.cache
